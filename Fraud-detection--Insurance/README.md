@@ -7,5 +7,4 @@
 # Objective
 The objective is to construct a model to predict which transactions could be fraudulent with high accuracy. A comparative study has been conducted to decide which classifier is best for this project to train the behavior features of normal and abnormal transactions.
 # Use Case
-I will be creating a predictive model that predicts if an insurance claim is 
-fraudulent or not. The answere between YES/NO, is a Binary Classification task. This report deals with classification algorithm  to detect fraud transaction in Python.
+I will be creating a predictive model that predicts if an insurance claim is fraudulent or not. The answer between YES/NO, is a Binary Classification task. This report deals with classification algorithm  to detect fraud transaction in Python.
